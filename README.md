@@ -1,10 +1,30 @@
-# qazomail
+# Qazo Mail Messenger
 
-## About
-Release repository for application binaries and updates.
+Qazo — это почтовый клиент, который превращает электронную почту в мессенджер. 
+
+Под капотом – стандартные почтовые протоколы IMAP и SMTP, но внешне программа выглядит и ощущается как Telegram или другой мессенджер. Если вы постоянно переписываетесь по email короткими сообщениями и устали от громоздких цепочек писем, Qazo упростит вам жизнь.
+
+## Что умеет
+
+* **Почта в формате чатов.** Письма от одного человека собираются в единый диалог. Никаких сложных веток — только хронологическая переписка.
+* **Свои папки и групповые чаты.** Вы можете создавать новые папки и переносить туда нужные контакты для сортировки. Разные email-адреса с одного домена объединяются в групповые чаты.
+* **Тонкая настройка контактов.** Любому собеседнику можно задать понятное имя, отключить звук уведомлений или закрепить его в топе. 
+* **Свободный дизайн.** Есть темная и светлая темы, выбор акцентных цветов, настройка шрифтов и обоев для чатов.
+* **Всё для удобства.** Просмотр писем в виде чистого текста или HTML, встроенная система уведомлений и автообновления «по воздуху» напрямую с GitHub. Разделы с вложениями.
+
+<img width="1277" height="791" alt="image" src="https://github.com/user-attachments/assets/a17f6e4c-966a-4c22-83bd-f6f8a1e8bc79" />
+
+Приложение написано на базе Tauri и Rust: оно быстро запускается, не тормозит и экономно расходует оперативную память.
 
 ## Downloads
-Download the latest version from the [Releases page](https://github.com/qazomardok/qazomail/releases/latest)
+Скачайте последнюю версию со [страницы релизов](https://github.com/qazomardok/qazomail/releases/latest)
 
 ## Updates
-This repository is used for automatic application updates.
+Этот репозиторий используется для автоматического обновления приложений.
+
+<img width="987" height="945" alt="image" src="https://github.com/user-attachments/assets/39c707bb-5b13-45c9-ac4c-55895b8e9527" />
+<img width="992" height="597" alt="image" src="https://github.com/user-attachments/assets/5f857a0a-7be7-45ff-9bf9-97ace05f7d11" />
+<img width="989" height="890" alt="image" src="https://github.com/user-attachments/assets/7c2ac12a-22cc-4a6d-a85e-964d49ff16d8" />
+<img width="988" height="680" alt="image" src="https://github.com/user-attachments/assets/8ee85ff8-3410-413f-b929-18c0fe5b3bfb" />
+<img width="1285" height="718" alt="image" src="https://github.com/user-attachments/assets/985a60af-920e-4630-ab44-1f64f9577d70" />
+
