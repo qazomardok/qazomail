@@ -12,7 +12,7 @@
 * **Свободный дизайн.** Есть темная и светлая темы, выбор акцентных цветов, настройка шрифтов и обоев для чатов.
 * **Всё для удобства.** Просмотр писем в виде чистого текста или HTML, встроенная система уведомлений и автообновления «по воздуху» напрямую с GitHub. Разделы с вложениями.
 
-<img width="1277" height="791" alt="image" src="https://github.com/user-attachments/assets/a17f6e4c-966a-4c22-83bd-f6f8a1e8bc79" />
+[<img width="1277" height="791" alt="image" src="https://github.com/user-attachments/assets/a17f6e4c-966a-4c22-83bd-f6f8a1e8bc79" />](https://github.com/qazomardok/qazomail)
 
 Приложение написано на базе Tauri и Rust: оно быстро запускается, не тормозит и экономно расходует оперативную память.
 
@@ -22,9 +22,11 @@
 ## Updates
 Этот репозиторий используется для автоматического обновления приложений.
 
-<img width="987" height="945" alt="image" src="https://github.com/user-attachments/assets/39c707bb-5b13-45c9-ac4c-55895b8e9527" />
-<img width="992" height="597" alt="image" src="https://github.com/user-attachments/assets/5f857a0a-7be7-45ff-9bf9-97ace05f7d11" />
-<img width="989" height="890" alt="image" src="https://github.com/user-attachments/assets/7c2ac12a-22cc-4a6d-a85e-964d49ff16d8" />
-<img width="988" height="680" alt="image" src="https://github.com/user-attachments/assets/8ee85ff8-3410-413f-b929-18c0fe5b3bfb" />
-<img width="1285" height="718" alt="image" src="https://github.com/user-attachments/assets/985a60af-920e-4630-ab44-1f64f9577d70" />
+<img width="1002" height="842" alt="image" src="https://github.com/user-attachments/assets/416ffdc2-b944-49bb-baa8-f3d3acc10a99" />
+<img width="1002" height="851" alt="image" src="https://github.com/user-attachments/assets/96fa5e8f-0fa6-46bf-a749-256f03cac92e" />
+<img width="1002" height="851" alt="image" src="https://github.com/user-attachments/assets/40943683-3730-475e-8e82-fc0af43c2184" />
+<img width="1002" height="851" alt="image" src="https://github.com/user-attachments/assets/ee15b3c3-0e65-4d13-a96e-63d004d16577" />
+<img width="1002" height="999" alt="image" src="https://github.com/user-attachments/assets/c2622388-2288-44ab-9115-e47806b477dd" />
+<img width="1002" height="999" alt="image" src="https://github.com/user-attachments/assets/5ef27742-34ae-49e4-a298-97220f92c924" />
+
 
