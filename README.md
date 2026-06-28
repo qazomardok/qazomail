@@ -12,9 +12,7 @@
 * **Свободный дизайн.** Есть темная и светлая темы, выбор акцентных цветов, настройка шрифтов и обоев для чатов.
 * **Всё для удобства.** Просмотр писем в виде чистого текста или HTML, встроенная система уведомлений и автообновления «по воздуху» напрямую с GitHub. Разделы с вложениями.
 
-[<img width="1277" height="791" alt="image" src="https://github.com/user-attachments/assets/a17f6e4c-966a-4c22-83bd-f6f8a1e8bc79" />](https://github.com/qazomardok/qazomail)
-
-Приложение написано на базе Tauri и Rust: оно быстро запускается, не тормозит и экономно расходует оперативную память.
+<img width="1002" height="848" alt="image" src="https://github.com/user-attachments/assets/1e065240-ff64-448a-8661-7a490099f258" />
 
 ## Downloads
 Скачайте последнюю версию со [страницы релизов](https://github.com/qazomardok/qazomail/releases/latest)
